@@ -1,2 +1,2 @@
-# replit-firefox
-https://replit.com/github/YodaLightsabr/replit-firefox
+# Firefox container
+[Deploy on Replit](https://replit.com/github/YodaLightsabr/replit-firefox)
