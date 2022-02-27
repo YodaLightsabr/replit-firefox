@@ -1,0 +1,3 @@
+language = "bash"
+audio = true
+run = "firefox -private -url https://duckduckgo.com"
